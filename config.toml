@@ -1,4 +1,4 @@
-baseurl = "https://lucid-babbage-098035.netlify.app"
+baseurl = "lapop.netlify.app"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "https://lucid-babbage-098035.netlify.app/portfolio/prueba"
+  url = "lapop.netlify.app/portfolio"
   home = true
 
   [[params.navlinks]]
@@ -56,13 +56,8 @@ googleAnalytics = ""
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
   email         = "email@example.com"
   twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"

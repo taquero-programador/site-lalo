@@ -8,4 +8,4 @@ weight = 1
 +++
 Vestido dama
 
-![configtoml](/pageok.png "Contenido de prueba.md")
+![configtoml](/uno.jpg "Contenido de prueba.md")
