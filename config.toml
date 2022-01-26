@@ -42,7 +42,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "https://lapop.netlify.app/portfolio"
+  url = "/portfolio"
   home = true
 
   [[params.navlinks]]
