@@ -27,3 +27,4 @@ fields:
   default: 1
 pages:
 - content/portfolio/chamarra.md
+- content/portfolio/ok.md
