@@ -17,5 +17,12 @@ fields:
 - type: number
   name: weight
   label: weight
+  default: 1
+- name: multi_img
+  type: image_gallery
+  config: {}
+  label: multi img
+  showOnly:
+    field: showonlyimage
 pages:
 - content/portfolio/chamarra.md
