@@ -12,4 +12,4 @@ $560
 
 ![](/uploads/dos.jpg)
 
-\[Comprar\](https://facebook.com)
+[Comprar](https://facebook.com "Comprar")
