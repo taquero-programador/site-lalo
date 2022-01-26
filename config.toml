@@ -1,4 +1,4 @@
-baseurl = "lapop.netlify.app"
+baseurl = "https://lapop.netlify.app"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "lapop.netlify.app/portfolio"
+  url = "https://lapop.netlify.app/portfolio"
   home = true
 
   [[params.navlinks]]
