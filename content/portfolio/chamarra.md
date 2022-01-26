@@ -2,7 +2,7 @@
 date = 2022-01-25T06:00:00Z
 image = "/uploads/dos.jpg"
 showonlyimage = false
-title = "Chamarra $560"
+title = "Chamarra"
 weight = 1
 
 +++
