@@ -2,7 +2,7 @@
 date = 2016-11-05T14:11:01Z
 image = "/uno.jpg"
 showonlyimage = false
-title = "Vestindo"
+title = "Vestido"
 weight = 1
 
 +++
