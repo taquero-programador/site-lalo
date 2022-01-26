@@ -9,5 +9,3 @@ weight = nil
 Chamarra Azul
 
 ![](/uploads/dos.jpg)
-
-\[Comprar\](https://facebook.com)
