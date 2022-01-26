@@ -2,27 +2,28 @@
 label: base1
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: image
-  label: image
-- type: boolean
-  name: showonlyimage
-  label: showonlyimage
 - type: text
   name: title
   label: title
-- type: number
-  name: weight
-  label: weight
-  default: 1
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: file
+  name: image
+  label: image
 - name: multi_img
   type: image_gallery
   config: {}
   label: multi img
   showOnly:
     field: showonlyimage
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: number
+  name: weight
+  label: weight
+  default: 1
 pages:
 - content/portfolio/chamarra.md
