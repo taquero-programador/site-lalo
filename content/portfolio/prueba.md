@@ -1,12 +1,11 @@
-+++ 
-date = "2016-11-05T19:41:01+05:30" 
-title = "Name of the work 2" 
-draft = false 
-image = "/pageok.png" 
-showonlyimage = false 
-weight = 1 
 +++
+date = 2016-11-05T14:11:01Z
+image = "/uno.jpg"
+showonlyimage = false
+title = "Vestindo"
+weight = 1
 
-prueba
++++
+Vestido dama
 
 ![configtoml](/pageok.png "Contenido de prueba.md")
